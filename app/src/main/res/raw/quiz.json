@@ -1,0 +1,105 @@
+{
+  "quizContainer": [
+    {
+      "quiz":{
+        "question":"What is the highest mountain on Earth?",
+        "answers":[
+          "Everest",
+          "K2",
+          "Kilimangiaro",
+          "Columbia"
+        ],
+        "correctAnswers":[
+          1,
+          0,
+          0,
+          0
+        ],
+        "type":"one"
+      }
+    },
+    {
+      "quiz":{
+        "question":"What is the longest river on Earth?",
+        "answers":[
+          "Mississippi",
+          "Mekong",
+          "Amazon",
+          "Niger"
+        ],
+        "correctAnswers":[
+          0,
+          0,
+          1,
+          0
+        ],
+        "type":"one"
+      }
+    },
+    {
+      "quiz":{
+        "question":"What is the biggest continent on Earth?",
+        "answers":[
+          "Europe",
+          "Asia",
+          "Africa",
+          "America"
+        ],
+        "correctAnswers":[
+          0,
+          1,
+          0,
+          0
+        ],
+        "type":"one"
+      }
+    },
+    {
+      "quiz":{
+        "question":"Which is the most populated country?",
+        "answers":[
+          "Canada",
+          "Russia",
+          "China",
+          "USA"
+        ],
+        "correctAnswers":[
+          0,
+          0,
+          1,
+          0
+        ],
+        "type":"one"
+      }
+    },
+    {
+      "quiz": {
+        "question": "What is the largest ocean?",
+        "answers": [],
+        "correctAnswers": [
+          "pacific ocean",
+          "pacific"
+        ],
+        "type": "inputText"
+      }
+    },
+    {
+      "quiz": {
+        "question": "Which is the biggest city?",
+        "answers": [
+          "Shanghai",
+          "New York",
+          "Istanbul",
+          "Moscow"
+        ],
+        "correctAnswers": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "type": "one"
+      }
+    }
+  ]
+}

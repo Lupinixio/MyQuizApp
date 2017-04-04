@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+
+    <!--<string-array name="first">-->
+    <!--<item>What is the highest mountain on Earth?</item>-->
+    <!--<item>Everest</item>-->
+    <!--<item>K2</item>-->
+    <!--<item>Kilimangiaro</item>-->
+    <!--<item>Columbia</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="second">-->
+    <!--<item>What is the longest river on Earth?</item>-->
+    <!--<item>Mississippi</item>-->
+    <!--<item>Mekong</item>-->
+    <!--<item>Amazon</item>-->
+    <!--<item>Niger</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="third">-->
+    <!--<item>What is the biggest continent on Earth?</item>-->
+    <!--<item>Europe</item>-->
+    <!--<item>Asia</item>-->
+    <!--<item>Africa</item>-->
+    <!--<item>America</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="fourth">-->
+    <!--<item>Which is the most populated country?</item>-->
+    <!--<item>Canada</item>-->
+    <!--<item>Russia</item>-->
+    <!--<item>China</item>-->
+    <!--<item>USA</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="fifth">-->
+    <!--<item>What is the largest ocean?</item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--</string-array>-->
+    <!--<string-array name="sixth">-->
+    <!--<item>Which is the biggest city?</item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--</string-array>-->
+    <!--<string-array name="seventh">-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--<item></item>-->
+    <!--</string-array>-->
+
+    <array name="questions">
+        <item>
+            <string-array name="first">
+                <item>What is the highest mountain on Earth?</item>
+                <item>Everest</item>
+                <item>K2</item>
+                <item>Kilimangiaro</item>
+                <item>Columbia</item>
+            </string-array>
+        </item>
+        <item>
+            <item>
+            <string-array name="second">
+                <item>What is the longest river on Earth?</item>
+                <item>Mississippi</item>
+                <item>Mekong</item>
+                <item>Amazon</item>
+                <item>Niger</item>
+            </string-array>
+            </item>
+            <item>
+                <int-array name="second">
+                    <item>What is the longest river on Earth?</item>
+                    <item>Mississippi</item>
+                    <item>Mekong</item>
+                    <item>Amazon</item>
+                    <item>Niger</item>
+                </int-array>
+            </item>
+        </item>
+        <item>
+            <string-array name="third">
+                <item>What is the biggest continent on Earth?</item>
+                <item>Europe</item>
+                <item>Asia</item>
+                <item>Africa</item>
+                <item>America</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="fourth">
+                <item>Which is the most populated country?</item>
+                <item>Canada</item>
+                <item>Russia</item>
+                <item>China</item>
+                <item>USA</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="fifth">
+                <item>What is the largest ocean?</item>
+                <item></item>
+                <item></item>
+                <item></item>
+                <item></item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="sixth">
+                <item>Which is the biggest city?</item>
+                <item></item>
+                <item></item>
+                <item></item>
+                <item></item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="seventh">
+                <item></item>
+                <item></item>
+                <item></item>
+                <item></item>
+            </string-array>
+        </item>
+    </array>
+
+
+</resources>
